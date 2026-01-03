@@ -1,0 +1,30 @@
+{
+  "name": "open-in-totalcmd",
+  "repository": "https://github.com/asiloisad/pulsar-open-in-totalcmd",
+  "description": "Open files and folders in Total Commander via open-external service",
+  "keywords": [
+    "total-commander",
+    "file-manager"
+  ],
+  "version": "0.1.0",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.100.0 <2.0.0"
+  },
+  "main": "./lib/main",
+  "configSchema": {
+    "path": {
+      "title": "Executable Path",
+      "description": "Path to Total Commander executable.",
+      "type": "string",
+      "default": "C:/Program Files/Total Commander/TOTALCMD.EXE"
+    }
+  },
+  "consumedServices": {
+    "open-external": {
+      "versions": {
+        "^1.0.0": "consumeOpenExternalService"
+      }
+    }
+  }
+}
