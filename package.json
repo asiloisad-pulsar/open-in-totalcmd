@@ -17,7 +17,7 @@
       "title": "Executable Path",
       "description": "Path to Total Commander executable.",
       "type": "string",
-      "default": "C:/Program Files/Total Commander/TOTALCMD.EXE"
+      "default": "c:/Program Files/totalcmd/TOTALCMD64.EXE"
     }
   },
   "consumedServices": {
