@@ -1,6 +1,6 @@
 {
   "name": "open-in-totalcmd",
-  "repository": "https://github.com/asiloisad/pulsar-open-in-totalcmd",
+  "repository": "https://github.com/asiloisad-pulsar/open-in-totalcmd",
   "description": "Open files and folders in Total Commander via open-external service",
   "keywords": [
     "total-commander",
