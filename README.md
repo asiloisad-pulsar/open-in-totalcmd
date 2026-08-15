@@ -10,7 +10,7 @@ Open files and folders in Total Commander via `open-external` service.
 
 ## Installation
 
-To install `open-in-totalcmd` search for [open-in-totalcmd](https://web.pulsar-edit.dev/packages/open-in-totalcmd) in the Install pane of the Pulsar settings or run `ppm install open-in-totalcmd`. Alternatively, you can run `ppm install asiloisad/pulsar-open-in-totalcmd` to install a package directly from the GitHub repository.
+To install `open-in-totalcmd` search for [open-in-totalcmd](https://web.pulsar-edit.dev/packages/open-in-totalcmd) in the Install pane of the Pulsar settings or run `ppm install open-in-totalcmd`. Alternatively, you can run `ppm install asiloisad-pulsar/open-in-totalcmd` to install a package directly from the GitHub repository.
 
 ## Usage
 
