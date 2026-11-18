@@ -2,6 +2,9 @@
 
 Open files and folders in Total Commander via `open-external` service.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [open-in-totalcmd](https://github.com/lumine-code/open-in-totalcmd).
+
 ## Features
 
 - **Open directories**: Opens directories in Total Commander instead of system default.
